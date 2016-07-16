@@ -1,6 +1,6 @@
 # phpList addon for ExpressionEngine 3
 
-This addon makes it easy to create AJAX phpList signup forms. Two tags are used: **{exp:willow_phplist:form}** to generate the form and **{exp:willow_phplist:script}** to generate the JavaScript for the sign up.
+This addon makes it easy to create AJAX phpList signup forms. Two tags are used: **{exp:willow_phplist:form}** to generate the form and **{exp:willow_phplist:script}** to generate the JavaScript for the sign up. **Requirements:** ExpressionEngine 3 and jQuery.
 
 ##Installing
 
